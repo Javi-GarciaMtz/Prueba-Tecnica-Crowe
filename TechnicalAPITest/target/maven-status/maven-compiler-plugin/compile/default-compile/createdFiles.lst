@@ -1,0 +1,6 @@
+com/technicalapitest/controller/PeopleController.class
+com/technicalapitest/service/SwapiService.class
+com/technicalapitest/model/People.class
+com/technicalapitest/model/PeopleResponse.class
+com/technicalapitest/model/AddPeopleResponse.class
+com/technicalapitest/TechnicalApiTestApplication.class
